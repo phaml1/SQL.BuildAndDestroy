@@ -1,0 +1,2 @@
+SELECT * FROM STUDENTS
+WHERE NOT City = 'Philadelphia';
